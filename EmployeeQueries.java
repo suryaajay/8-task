@@ -86,3 +86,37 @@ public class EmployeeQueries {
         }
     }
 }
+
+// Output
+A) Employees with salary >= 2200:
+MAHADEVAN - 2985.0
+BINA - 2850.0
+SHIVANSH - 2450.0
+SCOTT - 3000.0
+AMIR - 5000.0
+
+B) Employees with no commission:
+SMITH
+MAHADEVAN
+BINA
+SHIVANSH
+SCOTT
+AMIR
+KULDEEP
+
+C) Employees with salary NOT between 2500 and 4000:
+SMITH - 800.0
+ANYA - 1600.0
+SETH - 1250.0
+MOMIN - 1250.0
+SHIVANSH - 2450.0
+AMIR - 5000.0
+KULDEEP - 1500.0
+
+D) Employees who don?t have a manager:
+AMIR - PRESIDENT - 5000.0
+
+E) Employees with 'A' as the third letter in name:
+
+F) Employees whose name ends with 'T':
+SCOTT
